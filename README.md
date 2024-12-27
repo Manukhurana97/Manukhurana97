@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 👋
 
 <!--
 **Manukhurana97/Manukhurana97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manukhurana97&label=Profile%20views&color=0e75b6&style=flat" alt="manu khurana" /> </p>
+
+<h3 align="center">A passionate FSD </h3>
+
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=Manukhurana97&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Manukhurana97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manukhurana97&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Manukhurana97" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manukhurana97&theme=vision-friendly-dark" alt="Manukhurana97" /></p>
